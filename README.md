@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-ffcc00?style=for-the-badge&logo=geeksforgeeks&logoColor=black" />
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Telegram%20Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
 
 ---
