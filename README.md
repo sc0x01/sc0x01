@@ -9,7 +9,6 @@
   <p align="center">
     <b>"Minimalizm, Performans ve Temiz Kod Tutkunu"</b><br>
      Modern web teknolojileriyle ölçeklenebilir, hızlı ve estetik SaaS ürünleri geliştiriyorum.<br>
-     <i>Eskiden Python vardı, şimdi sadece Type Safety ve Componentler konuşur.</i>
   </p>
 
   <br/>
@@ -35,8 +34,8 @@
   <div align="center">
     <h3>📊 GitHub Analytics</h3>
     <p>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=python,jupyter%20notebook" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sc0x01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sc0x01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=python,jupyter%20notebook" />
     </p>
   </div>
 
