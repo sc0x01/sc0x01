@@ -7,25 +7,19 @@
 <p align="center"><code>"Code is dead. Long live the prompt."</code></p>
 
 <p align="center">
-  <b>AI-orchestrator</b> — building production software through conversation.<br/>
-  Not one AI assistant: a whole company of them. One CEO agent, ten specialist
-  departments (engineering, design, security, audit, legal…), every line shipped
-  through evidence and independent audit gates.
+  <b>AI-assisted developer</b> building tools with TypeScript.<br/><br/>
+  Every line of code in my repositories is crafted alongside AI —<br/>
+  not generated blindly, but engineered through conversation.
 </p>
 
 <p align="center">
-  🔭 Currently building <b>FixMyContract</b> — an AI-powered contract-review SaaS. <i>Launching soon.</i>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLAUDE_CODE-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/FABLE_5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_5_family-Fable_·_Opus_·_Sonnet-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sc0x01&bg_color=0d1117&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true&custom_title=sc0x01's%20Contribution%20Graph" width="92%" />
 </p>
 
 <p align="center">
