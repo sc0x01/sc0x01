@@ -22,9 +22,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sc0x01&bg_color=0d1117&color=f97316&line=f97316&point=ffffff&area=true&hide_border=true&custom_title=sc0x01's%20Contribution%20Graph" width="92%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sc0x01&show_icons=true&theme=dark&count_private=true&hide_border=true&title_color=f97316&icon_color=f97316&bg_color=0d1117" />
-</p>
 
 ---
 
