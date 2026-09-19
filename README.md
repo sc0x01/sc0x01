@@ -1,1 +1,26 @@
-<img src="assets/banner.svg" width="100%" /> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=720&height=45&lines=AI-assisted+developer;Building+tools+with+TypeScript" /> </p> <br> <p align="center"> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </p> <p align="center"> <img src="https://img.shields.io/badge/CLAUDE_CODE-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=f97316" /> <img src="https://img.shields.io/badge/FABLE_5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /> </p> <br> <p align="center"> <img src="https://streak-stats.demolab.com?user=sc0x01&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" /> </p> <img src="assets/footer.svg" width="100%" />
+<img src="assets/banner.svg" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=720&height=45&lines=AI-assisted+developer;Building+tools+with+TypeScript" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CLAUDE_CODE-1a1a1a?style=for-the-badge&logo=anthropic&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/FABLE_5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sc0x01&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" />
+</p>
+
+<img src="assets/footer.svg" width="100%" />
